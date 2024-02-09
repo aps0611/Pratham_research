@@ -31,7 +31,7 @@ This repository contains the submissions for the Research & Analytics team assig
 - **book2:**
   - Contains the Jupyter Notebook for Assignment 2 analysis.
   - [GitHub Link](https://github.com/aps0611/pratham_research/blob/7222e1fdb99c1d0870eab30e0ce248a38847a8e5/book2/book2.ipynb)
-  - [Google Collab Link](https://colab.research.google.com/drive/1R4Qbwm4HnpALKhyKwWzH2TwkbgaIOa7S?usp=sharing)
+  - [Google Collab Link](https://colab.research.google.com/drive/1fzXnIDzNpSw2l71xmmkUyiu5K03iiLOA?usp=sharing)
 
 - **inspection:**
   - Includes the Python notebook for task 1.
