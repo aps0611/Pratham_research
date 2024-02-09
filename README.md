@@ -15,7 +15,7 @@ This repository contains the submissions for the Research & Analytics team assig
     - Provide key insights derived from the data.
 
 - **Assignment 2:**
-  - Dataset: 'RA Test Data 2' text exchanges from an Early Childhood Education WhatsApp Bot integrated with ChatGpt.
+  - Dataset: 'RA Test Data 2' text exchanges from an Early Childhood Education Bot integrated with ChatGpt.
   - Tasks:
     - Clean and preprocess the text data.
     - Identify and summarize topical interests.
